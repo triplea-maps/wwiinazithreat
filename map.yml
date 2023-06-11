@@ -1,0 +1,4 @@
+map_name: wwiinazithreat
+games:
+- {game_name: WWII Nazi Threat, file_name: WWII Nazi Threat.xml}
+version: 0
